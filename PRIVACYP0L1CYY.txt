@@ -1,0 +1,144 @@
+PRIVACY POLICY - AlexBot 4
+
+Last updated: May 22, 2025
+
+Welcome to AlexBot 4! We are committed to protecting your privacy while providing intelligent and helpful moderation services on Discord. This Privacy Policy outlines how AlexBot 4 interacts with users and data.
+
+1. Information We Do NOT Collect
+
+AlexBot 4 does not collect, store, or transmit any of the following:
+
+Personally Identifiable Information (PII)
+
+Discord DMs or private server messages
+
+User passwords, emails, or phone numbers
+
+Location data
+
+2. What AlexBot 4 Does Access
+
+AlexBot 4 accesses limited data necessary for moderation:
+
+Usernames & User IDs (for identifying and tracking moderation activity)
+
+Message Content (only within public server channels where the bot is present)
+
+Server ID and Channel ID
+
+Timestamps of messages and actions
+
+This access is temporary, memory-only, and not stored in persistent databases unless configured by the server owner.
+
+3. Temporary Moderation Logs
+
+If enabled by the server owner, AlexBot 4 can:
+
+Store warning history
+
+Record kick/ban actions
+
+Log vote-based moderation actions
+
+These logs are kept in-memory or on the server’s filesystem (not sent to external servers).
+
+4. Evidence & Auto-Detection Features
+
+AlexBot 4 includes features to:
+
+Analyze message patterns for spam or inappropriate content
+
+Detect banned phrases or symbols
+
+Track excessive warnings or repeated offenses
+
+All checks are performed in real-time. No content is saved or used beyond moderation purposes.
+
+5. Translation and Text Analysis
+
+AlexBot 4 offers translation and cipher tools. Inputs provided to these tools are processed locally on the server running the bot and never transmitted elsewhere.
+
+6. User-Initiated Commands
+
+User commands (e.g., /;START:, ;translate) are handled in real-time. No data is retained beyond:
+
+Immediate response generation
+
+Internal temporary analysis (if needed)
+
+7. Access Control
+
+Only server staff (as defined by role) or the server owner can:
+
+Trigger sensitive moderation commands
+
+Access log data (if stored locally)
+
+AlexBot 4 uses user role checks to verify permissions.
+
+8. Server Owner Controls
+
+Server owners can configure the following:
+
+Whether to log actions
+
+Whether to store user warnings
+
+Whether to enable age-detection moderation logic
+
+Whether to allow translation commands
+
+This allows full control over privacy-related behavior.
+
+9. No External Analytics or Advertising
+
+AlexBot 4 does not use:
+
+Google Analytics
+
+Cookies
+
+Advertising SDKs
+
+Tracking scripts
+
+It operates independently from any third-party analytics providers.
+
+10. No Third-Party Sharing
+
+We do not share any data with third parties. No information is transmitted off the server running AlexBot 4.
+
+11. Children’s Privacy
+
+AlexBot 4 may be used to moderate users believed to be under age 13 based on server rules. However, AlexBot 4 itself does not collect any personal data from children.
+
+12. Security Practices
+
+AlexBot 4:
+
+Does not store tokens or user data in source code
+
+Encourages secure hosting using environment variables
+
+Recommends rate limits and audit logging (by the owner)
+
+13. Data Retention
+
+All logs and data are only retained on the host system (if enabled).
+Server owners can delete logs or reset warning data at any time.
+
+14. Changes to This Policy
+
+We may update this policy as the bot evolves. Changes will be posted to the GitHub repository.
+
+15. Contact
+
+For any questions or concerns, please open an issue on the GitHub repository or contact the maintainer directly.
+
+16. Summary
+
+AlexBot 4 is a privacy-first bot. We do not collect unnecessary data, store user content, or transmit logs externally. Everything is processed in-memory or controlled by the server owner.
+
+By using AlexBot 4, you acknowledge and accept the privacy policy outlined above.
+
+End of Policy
